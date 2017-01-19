@@ -1,0 +1,7 @@
+server:
+  ssl:
+    enabled: true
+    key-store: test-keystore.jks
+    key-store-password: changeit
+    trust-store: test-truststore.jks
+    trust-store-password: changeit
