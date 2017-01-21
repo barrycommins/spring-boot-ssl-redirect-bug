@@ -1,6 +1,6 @@
 #Spring Boot SSL Redirection Bug
 
-Ran into a problem where if Spring Boot and SSL.
+Ran into a problem with Spring Boot and SSL.
 
 If `server.ssl.enabled=true` and `server.port` is left as 8080, any redirect will go to 8443
 
